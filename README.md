@@ -1,5 +1,7 @@
 # Screenshots to PDF
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Python GUI/utility для сборки длинного PDF из набора скриншотов или изображений. Поддерживает нормализацию ширины, вертикальную склейку, двухколоночный режим и разбиение слишком длинного полотна на несколько PDF-страниц.
 
 ## Статус аудита
